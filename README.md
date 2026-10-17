@@ -1,5 +1,5 @@
 
-# Laboratorio
+# banner creator
 
 ![Status](https://img.shields.io/badge/status-EXPERIMENTAL-9C27B0?style=flat-square)
 ![Version](https://img.shields.io/badge/version-0.1.0-1565C0?style=flat-square)
